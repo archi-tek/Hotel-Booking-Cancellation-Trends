@@ -4,7 +4,7 @@
 This project explores the patterns and trends in hotel booking cancellations using data analytics techniques implemented in Microsoft Excel.
 The aim is to uncover insights that could help in managing hotel reservations more effectively, minimizing cancellations, and improving customer satisfaction.
 
-![Hotel Booking Dashboard](/dashboard_screenshot.png)
+![Hotel Booking Dashboard](/Hotel%20Booking%20Dashboard.png)
 
 ## Technologies Used
 - **Microsoft Excel**: Used for storing data, performing data cleaning & transformation, and analyzing trends.
